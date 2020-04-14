@@ -41,8 +41,7 @@
     "testEnvironment": "node"
   },
   "dependencies": {
-    "jimp": "^0.6.0",
-    "responsive-loader": "^1.2.0"
+    "responsive-loader": "https://github.com/dscafati/responsive-loader.git"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^0.0.1",
